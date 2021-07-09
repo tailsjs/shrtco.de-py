@@ -3,7 +3,7 @@ Library for shrtco.de API
 
 ## Installing
 `
-pip install shrtco.de
+pip install shrtcode-py
 `
 
 
